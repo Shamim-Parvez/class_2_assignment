@@ -1,0 +1,42 @@
+body{
+	margin:0;
+	padding: 0;
+}
+a{
+	display: block;
+	text-align: center;
+	text-decoration: none;
+}
+.text{
+	width: 250px;
+	height: 100px;
+	margin: auto;
+}
+div.text{
+	text-align: center;
+}
+ .a1{
+	color: blue;
+}
+.a2{
+	color: red;
+}
+.a3{
+	color: green;
+}
+.a4{
+	color: #FFBD33;
+}
+.fish img{
+	max-width: 100%;
+}
+.set{
+	width: 130px;
+
+}
+.bus{
+	background: green;
+	padding:5px;
+	text-align: center;
+	color: white;
+}
